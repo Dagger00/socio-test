@@ -1,0 +1,25 @@
+.main {
+  font-family: Roboto, serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.app {
+  font-size: 42px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.choose {
+  font-family: Roboto, serif;
+  font-size: 30px;
+  box-shadow: none;
+  background-color: #eee;
+  border: 1px solid black;
+  color: #000;
+  text-transform: uppercase;
+  font-weight: 700;
+}
